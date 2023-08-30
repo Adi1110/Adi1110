@@ -1,5 +1,7 @@
+[![MasterHead](https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png)](https://adi1110.io)
 <h1 align="center">Hi 👋, I'm Aditya Ranjan</h1>
 <h3 align="center">A passionate Full Stack Web developer from India.</h3>
+<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adi1110&label=Profile%20views&color=0e75b6&style=flat" alt="adi1110" /> </p>
 
